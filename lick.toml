@@ -1,0 +1,10 @@
+[package]
+name = "jump"
+version = "0.1.0"
+description = "Jump helps you navigate faster by learning your habits"
+homepage = "http://gsamokovarov.com/jump/"
+license = "MIT"
+url = "https://github.com/vicvenscob/jump/archive/refs/heads/main.tar.gz"
+depends = []
+
+[package.files]
